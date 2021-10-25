@@ -54,7 +54,7 @@ class Header extends Component {
               
             }}
           >
-            The QuizApp
+            The QuizzApp
           </h1>
         </Menu.Item>
 
