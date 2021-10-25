@@ -8,8 +8,7 @@ const Stats = props => {
     totalQuestions,
     correctAnswers,
     timeTakesToComplete,
-    retakeQuiz,
-    backToHome
+    retakeQuiz
   } = props;
 
   const score = Number(((correctAnswers * 100) / totalQuestions).toFixed(2));
